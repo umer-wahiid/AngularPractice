@@ -1,0 +1,8 @@
+-----FOR API-----
+
+--MicrosoftEFCore.Sqlserver
+--MicrosoftEFCore.Tools
+
+
+
+-----FOR UI-----
