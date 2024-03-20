@@ -6,3 +6,25 @@
 
 
 -----FOR UI-----
+
+--Extensions:
+---ESLint By Microsoft.
+---Angular Snippets By johnpapa.net
+---CSS Formatter By Martin Aeschlimann
+---Angular Language Service By angular.io
+---IntelliSense for CSS class names in HTML By Zignd
+---Path Intellisense By Christian Kohler
+
+--Install Node.js
+---https://nodejs.org/en/download
+---node --version
+
+
+--Install Angular
+---ng version
+---npm uninstall -g @angular/cli
+---npm install -g @angular/cli
+
+
+--Create Project
+---ng new codepulse
