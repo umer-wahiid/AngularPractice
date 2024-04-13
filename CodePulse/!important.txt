@@ -28,3 +28,11 @@
 
 --Create Project
 ---ng new codepulse
+
+
+--Run Project
+---ng serve --open
+
+
+--Alteration
+---remove everything from app.component.html except <router-outlet />
