@@ -36,3 +36,15 @@
 
 --Alteration
 ---remove everything from app.component.html except <router-outlet />
+
+
+
+
+
+
+
+
+
+
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
